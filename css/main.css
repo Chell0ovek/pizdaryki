@@ -118,7 +118,11 @@ nav {
     border-radius: 14px;
     background: #191A23;
     color: #fff;
-    padding: 25px 30px;
+    padding: 20px 35px;
+}
+
+.link-black {
+    color: #fff;
 }
 
 .header-right {
